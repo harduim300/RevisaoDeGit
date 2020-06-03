@@ -36,3 +36,6 @@ $ git remote rm <name>
 //o "name" fica no lado esquerdo
 //do link
 testando alteracao no git
+//Sempre que for feita uma alteração no
+//git é necessario dar um ADD e logo
+//apos um COMMINT para estabelecer a alteração
