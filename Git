@@ -15,7 +15,23 @@ $ git status
 // expoe o estado do repositorio
 $ git add nome.extensão 
 //adiciona um unico arquivo ao git
-$ git add. 
+$ git add . (com o ponto separado)
 //adicionar todo arquivo que esta na
 //mesma pasta que o git mas não esta no
 // git
+$ git comimit -m "Texto comentario"
+//Comenta os arquivos
+$ git log
+//Mostra o historico de alterações
+$ git log --status
+//mostra exclusivamente o que(quem foi) foi
+//alterado
+$ git remote add origin https://GitLink
+// Ele cria o link para o git remoto
+//mas nao envia nada
+$ git remote -v
+//Posso visualizar o link que eu anexei
+$ git remote rm <name>
+//Como remover um link git remoto
+//o "name" fica no lado esquerdo
+//do link
