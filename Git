@@ -1,0 +1,21 @@
+O git é um repositorio, que ira armazenar
+arquivos que podem ser manuseados por
+outras pessoas ao mesmo tempo
+em tempo real.Uma expécie de diretorio
+que irá apontar para os arquivos de seu uso
+// COMANDOS
+$ git config --global user.email TAl@ALGO.com
+//permite atrelar um email a qualquer git
+//criado
+$ git config --global user.name "Fulano"
+//permite atrelar um nome ao git
+$ git init
+// instancio um repositorio git
+$ git status
+// expoe o estado do repositorio
+$ git add nome.extensão 
+//adiciona um unico arquivo ao git
+$ git add. 
+//adicionar todo arquivo que esta na
+//mesma pasta que o git mas não esta no
+// git
