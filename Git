@@ -44,3 +44,5 @@ $ git push origin master
 $ git pull origin master
 //recebo as alterações para meu git local(alterações vindas do remoto)
 testando alterção push no github
+$ git clone https://GitLink.com
+//para baixar um git remoto
